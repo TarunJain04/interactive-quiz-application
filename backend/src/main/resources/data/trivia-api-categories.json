@@ -1,0 +1,14 @@
+{
+  "source": "TriviaApi",
+  "categoryMappings": {
+    "sport_and_leisure": "Sports & Games",
+    "arts_and_literature": "Arts & Literature",
+    "history": "History",
+    "society_and_culture": "Society & Culture",
+    "science": "Science",
+    "geography": "Geography",
+
+    "food_and_drink": "General Knowledge",
+    "general_knowledge": "General Knowledge"
+  }
+}

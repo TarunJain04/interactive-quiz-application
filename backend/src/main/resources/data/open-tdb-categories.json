@@ -1,0 +1,33 @@
+{
+  "source": "OpenTDB",
+  "categoryMappings": {
+
+    "General Knowledge": "General Knowledge",
+    "Vehicles": "General Knowledge",
+    "Science: Gadgets": "General Knowledge",
+
+    "Sports": "Sports & Games",
+    
+    "Science: Computers": "General Knowledge",
+
+    "Entertainment: Books": "Arts & Literature",
+    "Art": "Arts & Literature",
+
+    "Mythology": "Society & Culture",
+    "Politics": "Society & Culture",
+
+    "Science & Nature": "Science",
+    "Animals": "Science",
+
+
+    "Science: Mathematics": "Mathematics",
+
+    "Geography": "Geography",
+
+    "History": "History"
+  }
+}
+
+
+
+
